@@ -1,5 +1,4 @@
 # Git Branches and Deploying to GitHub Pages
-Terms: Branches, Deploying, Pushing
 
 ## Lesson Objectives
 By the end of this lesson, students will be able to:
