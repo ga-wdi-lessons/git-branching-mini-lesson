@@ -2,6 +2,7 @@
 
 ## Lesson Objectives
 By the end of this lesson, students will be able to:
+
 1. Identify use cases for both checking out a branch and merging that branch into master
 2. Create and check out a new branch
 3. Merge a branch into master
