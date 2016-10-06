@@ -142,7 +142,7 @@ We are going to complete a [brief tutorial](http://learngitbranching.js.org/).  
 
 [My favorite cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 
-## Bonus 1: [Create a repo for deploying your work to GitHub pages](https://pages.github.com/)
+## Bonus: [Create a repo for deploying your work to GitHub pages](https://pages.github.com/)
 
 ## Appendix
  [An Excellent Video Detailing the Steps of DeployingGH-Pages](https://www.youtube.com/watch?v=6Dp5vos4zGI&index=2&list=PLae1he6d1WIlAWnbAMIWFzL0ibaKr4q-P)
