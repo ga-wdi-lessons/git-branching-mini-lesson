@@ -1,7 +1,5 @@
 # Git Branching
 
-> [Lesson Summary](readme_summary.md)
-
 ## Learning Objectives
 
 - Explain what a branch is in git
