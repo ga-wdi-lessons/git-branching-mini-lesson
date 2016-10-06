@@ -146,10 +146,6 @@ We are going to start with a [brief tutorial](http://learngitbranching.js.org/).
 
 ## Bonus 1: [Create a repo for deploying your work to GitHub pages](https://pages.github.com/)
 
-## Bonus 2:
-After finishing the 1st bonus, add a gh-pages branch to your Wendy Bite homework, or another repo. You can navigate to:
- your_username.github.io/name_of_the_repo_that_you_added_a_gh_pages_branch_to
-
 ## Appendix
  [An Excellent Video Detailing the Steps of DeployingGH-Pages](https://www.youtube.com/watch?v=6Dp5vos4zGI&index=2&list=PLae1he6d1WIlAWnbAMIWFzL0ibaKr4q-P)
 
