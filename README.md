@@ -116,7 +116,7 @@ $ git branch -d <feature_branch_name>
 
 ### You Do: Branching Exercise (15 min)
 
-We are going to start with a [brief tutorial](http://learngitbranching.js.org/).  This is an introduction to branching.
+We are going to complete a [brief tutorial](http://learngitbranching.js.org/).  This is an introduction to branching.
 
 - Do Levels 1-3.  Stop at 4: "Rebase Introduction".
 - Take your time:
